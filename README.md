@@ -56,8 +56,8 @@ Software Engineer Around 4 years of IT experience, specializing in DevOps, Cloud
 ---
 
 
-**<img src="https://github.com/SHAIK-SAIDAVALI/SHAIK-SAIDAVALI/blob/main/TCS.png" height="32"/> System Administrator** **(Feb 2017 – Apr 2020)**  
-- Supported infrastructure operations, troubleshooting, and system performance management.
+**<img src="https://github.com/SHAIK-SAIDAVALI/SHAIK-SAIDAVALI/blob/main/TCS.png" height="32"/> DevOps Engineer** **(Feb 2022 – Present)**  
+- Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
 ---
 
