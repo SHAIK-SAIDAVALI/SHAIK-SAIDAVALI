@@ -78,18 +78,18 @@ Software Engineer Around 4 years of IT experience, specializing in DevOps, Cloud
 
 ### 📊 GitHub Stats
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=anilkathoju2&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SHAIK-SAIDAVALI&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkathoju2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAIK-SAIDAVALI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=anilkathoju2&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SHAIK-SAIDAVALI&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkathoju2&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIK-SAIDAVALI&theme=dark&hide_border=false&layout=compact)
 
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=anilkathoju2&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=SHAIK-SAIDAVALI&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
@@ -98,15 +98,15 @@ Software Engineer Around 4 years of IT experience, specializing in DevOps, Cloud
 ### Pac-Man contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anilkathoju2/anilkathoju2/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAIK-SAIDAVALI/SHAIK-SAIDAVALI/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAIK-SAIDAVALI/SHAIK-SAIDAVALI/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SHAIK-SAIDAVALI/SHAIK-SAIDAVALI/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
-<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat) -->
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=SHAIK-SAIDAVALI&countColor=%23263759&style=flat) -->
 
-![Visitor Count](https://api.visitorbadge.io/api/visitors?path=anilkathoju2&countColor=%23263759&style=flat&ignoreOwnVisits=true)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=SHAIK-SAIDAVALI&countColor=%23263759&style=flat&ignoreOwnVisits=true)
 
 
 ---
